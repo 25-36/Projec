@@ -1,0 +1,501 @@
+nav {
+  background-color: violet;
+  width: 1350px;
+  height: 25px;
+  overflow-x: none;
+}
+.head {
+  display: flex;
+  position: absolute;
+  left: 0%;
+  top: -1%;
+}
+ul {
+  margin-right: 20px;
+}
+.nomre {
+  margin-right: 465px;
+}
+.box {
+  width: 1350px;
+  height: 50px;
+  background-color: white;
+  position: relative;
+  top: 9px;
+  left: 15px;
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  top: -3px;
+  left: 210px;
+}
+.r {
+  position: absolute;
+  left: 31.8%;
+  top: 14%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  color: red;
+  margin-right: 20px;
+}
+.home {
+  position: relative;
+  top: -1px;
+  left: -3px;
+}
+
+.l {
+  position: absolute;
+  left: 34.8%;
+  top: 14%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+}
+.m {
+  position: absolute;
+  left: 37.8%;
+  top: 14%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.n {
+  position: absolute;
+  left: 41.8%;
+  top: 14%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.e {
+  position: absolute;
+  left: 44.2%;
+  top: 14%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.p {
+  position: absolute;
+  left: 46.8%;
+  top: 14%;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+}
+button {
+  position: absolute;
+  background-color: brown;
+  width: 35px;
+  height: 30px;
+  margin-left: 1102px;
+  margin-top: -36px;
+}
+input {
+  position: absolute;
+  left: 950px;
+  top: 50px;
+  width: 150px;
+  height: 20px;
+}
+.detal {
+  position: absolute;
+  top: 100px;
+  left: 80px;
+  font-family: "Josefin Sans";
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #101750;
+}
+.altleft {
+  position: absolute;
+  top: 155px;
+  left: 81px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 19px;
+  text-align: center;
+  color: #000000;
+}
+.altorta {
+  position: absolute;
+  top: 155px;
+  left: 112px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 19px;
+  text-align: center;
+  color: #000000;
+}
+.altright {
+  position: absolute;
+  top: 155px;
+  left: 143px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 19px;
+  text-align: center;
+  color: #ff0000;
+}
+.picture {
+  width: 800px;
+  height: 400px;
+  position: relative;
+  top: 60px;
+  left: 275px;
+}
+.picture1 {
+  position: relative;
+  top: -205px;
+  left: -495px;
+  width: 100px;
+  height: 100px;
+}
+.picture2 {
+  position: relative;
+  top: -89px;
+  left: -599px;
+  width: 100px;
+  height: 100px;
+}
+.picture3 {
+  position: relative;
+  top: 25px;
+  left: -703px;
+  width: 100px;
+  height: 100px;
+}
+.picture4 {
+  width: 215px;
+  height: 333px;
+  position: relative;
+  top: 27px;
+  left: -700px;
+}
+.picturetext {
+  font-family: "Josefin Sans";
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #0d134e;
+  position: relative;
+  top: -325px;
+  left: 125px;
+}
+.ulduz {
+  position: relative;
+  top: -370px;
+  left: 650px;
+  width: 6px;
+}
+.ulduztext {
+  font-family: "Josefin Sans";
+  font-size: 8px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: #151875;
+  position: absolute;
+  top: 509px;
+  left: 710px;
+}
+.ulduzalt {
+  font-family: "Josefin Sans";
+  font-size: 10px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: #151875;
+  position: absolute;
+  top: 530px;
+  left: 660px;
+}
+.ulduzalt1 {
+  font-family: "Josefin Sans";
+  font-size: 10px;
+  line-height: 29px;
+  text-transform: capitalize;
+  color: red;
+  position: absolute;
+  top: 530px;
+  left: 725px;
+}
+.ulduzalt2 {
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #0d134e;
+  position: absolute;
+  top: 550px;
+  left: 660px;
+}
+.coloralt {
+  width: 400px;
+  font-family: "Josefin Sans";
+  font-size: 13px;
+  line-height: 29px;
+  color: #a9acc6;
+  position: absolute;
+  top: 565px;
+  left: 660px;
+}
+.cart {
+  background-color: white;
+  color: #0d134e;
+  position: relative;
+  top: -245px;
+  left: -435px;
+  border-color: white;
+  width: 100px;
+}
+.bolme {
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 29px;
+  color: #151875;
+  position: relative;
+  top: -210px;
+  left: 650px;
+}
+.bolme1 {
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 29px;
+  color: #151875;
+  position: relative;
+  top: -230px;
+  left: 650px;
+}
+.bolme2 {
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 29px;
+  color: #151875;
+  position: relative;
+  top: -250px;
+  left: 650px;
+}
+.share {
+  position: relative;
+  top: -288px;
+  left: 710px;
+}
+.facebook {
+  position: relative;
+  top: -291px;
+  left: 665px;
+}
+.instagram {
+  position: relative;
+  top: -291px;
+  left: 672px;
+}
+.twitter {
+  position: relative;
+  top: -291px;
+  left: 677px;
+}
+.section {
+  position: relative;
+  top: -240px;
+}
+.sectiontext1 {
+  position: absolute;
+  top: 865px;
+  left: 150px;
+  font-family: "Josefin Sans";
+  font-size: 24px;
+  line-height: 28px;
+  color: #151875;
+
+  text-decoration-line: underline;
+}
+.sectiontext2 {
+  position: absolute;
+  top: 865px;
+  left: 325px;
+  font-family: "Josefin Sans";
+  font-size: 24px;
+  line-height: 28px;
+  color: #151875;
+}
+.sectiontext3 {
+  position: absolute;
+  top: 865px;
+  left: 530px;
+  font-family: "Josefin Sans";
+  font-size: 24px;
+  line-height: 28px;
+  color: #151875;
+}
+.sectiontext4 {
+  position: absolute;
+  top: 865px;
+  left: 680px;
+  font-family: "Josefin Sans";
+  font-size: 24px;
+  line-height: 28px;
+  color: #151875;
+}
+.tempor {
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 26px;
+  color: #151875;
+  position: relative;
+  top: -470px;
+  left: 30px;
+}
+.temportext {
+  width: 900px;
+  font-family: "Josefin Sans";
+  font-size: 11px;
+  line-height: 26px;
+  color: #cfcfcff6;
+  position: relative;
+  top: -500px;
+  left: 30px;
+}
+.shoting {
+  position: absolute;
+  top: 1002px;
+  left: 29px;
+}
+.real {
+  font-family: "Josefin Sans";
+  font-size: 30px;
+  line-height: 42px;
+  text-align: center;
+  position: relative;
+  color: #101750;
+  top: -350px;
+  left: -375px;
+}
+.photo1 {
+  position: absolute;
+  top: 1240px;
+  left: 200px;
+  width: 190px;
+  height: 260px;
+}
+.photo2 {
+  position: absolute;
+  top: 1240px;
+  left: 450px;
+  width: 190px;
+  height: 260px;
+}
+.photo3 {
+  position: absolute;
+  top: 1240px;
+  left: 700px;
+  width: 190px;
+  height: 260px;
+}
+.photo4 {
+  position: absolute;
+  top: 1240px;
+  left: 950px;
+  width: 190px;
+  height: 260px;
+}
+.photo1text {
+  position: absolute;
+  top: 1485px;
+  left: 200px;
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 19px;
+  color: #151875;
+}
+.photo1sale {
+  position: absolute;
+  top: 1505px;
+  left: 200px;
+  font-family: "Josefin Sans";
+  font-size: 14px;
+  line-height: 19px;
+  color: #151875;
+}
+.photo2text {
+  position: absolute;
+  top: 1485px;
+  left: 450px;
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 19px;
+  color: #151875;
+}
+.photo2sale {
+  position: absolute;
+  top: 1505px;
+  left: 450px;
+  font-family: "Josefin Sans";
+  font-size: 14px;
+  line-height: 19px;
+  color: #151875;
+}
+.photo3text {
+  position: absolute;
+  top: 1485px;
+  left: 700px;
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 19px;
+  color: #151875;
+}
+.photo3sale {
+  position: absolute;
+  top: 1505px;
+  left: 700px;
+  font-family: "Josefin Sans";
+  font-size: 14px;
+  line-height: 19px;
+  color: #151875;
+}
+.photo4text {
+  position: absolute;
+  top: 1485px;
+  left: 950px;
+  font-family: "Josefin Sans";
+  font-size: 16px;
+  line-height: 19px;
+  color: #151875;
+}
+.photo4sale {
+  position: absolute;
+  top: 1505px;
+  left: 950px;
+  font-family: "Josefin Sans";
+  font-size: 14px;
+  line-height: 19px;
+  color: #151875;
+}
+.shot {
+  position: absolute;
+  top: 1580px;
+  left: 355px;
+}
+body {
+  overflow-x: hidden;
+}
